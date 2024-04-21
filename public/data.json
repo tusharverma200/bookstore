@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "First book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713677313~exp=1713680913~hmac=503ba47a7fd414d9f87c07f2aa9c7aa90916678b94209b47d56edbcc63695345&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Second book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "price": 0,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713677313~exp=1713680913~hmac=503ba47a7fd414d9f87c07f2aa9c7aa90916678b94209b47d56edbcc63695345&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Third book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713677313~exp=1713680913~hmac=503ba47a7fd414d9f87c07f2aa9c7aa90916678b94209b47d56edbcc63695345&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Fourth book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713677313~exp=1713680913~hmac=503ba47a7fd414d9f87c07f2aa9c7aa90916678b94209b47d56edbcc63695345&w=740"
+    },
+    {
+        "id": 1,
+        "name": "First book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713677313~exp=1713680913~hmac=503ba47a7fd414d9f87c07f2aa9c7aa90916678b94209b47d56edbcc63695345&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Second book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "price": 0,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713677313~exp=1713680913~hmac=503ba47a7fd414d9f87c07f2aa9c7aa90916678b94209b47d56edbcc63695345&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Third book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713677313~exp=1713680913~hmac=503ba47a7fd414d9f87c07f2aa9c7aa90916678b94209b47d56edbcc63695345&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Fourth book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713677313~exp=1713680913~hmac=503ba47a7fd414d9f87c07f2aa9c7aa90916678b94209b47d56edbcc63695345&w=740"
+    }
+]
